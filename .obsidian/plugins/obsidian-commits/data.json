@@ -89,11 +89,6 @@
       "tags": 2,
       "links": 2
     },
-    "Reference/_README.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
     "Daily-Notes/2021-11-10.md": {
       "size": 0,
       "tags": 1,
@@ -130,21 +125,6 @@
       "links": 3
     },
     "Templates/Meta-Template.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "Daily-Notes/_README.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "Templates/_README.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "Agendas/_README.md": {
       "size": 0,
       "tags": 1,
       "links": 0
@@ -186,11 +166,6 @@
     },
     "Meta/Structure.md": {
       "size": 6957,
-      "tags": 0,
-      "links": 0
-    },
-    "Meta/_README.md": {
-      "size": 274,
       "tags": 0,
       "links": 0
     },
@@ -254,11 +229,6 @@
       "tags": 0,
       "links": 0
     },
-    "MOCs/_README.md": {
-      "size": 285,
-      "tags": 0,
-      "links": 0
-    },
     "People/Justin DiRose.md": {
       "size": 1932,
       "tags": 0,
@@ -274,28 +244,8 @@
       "tags": 0,
       "links": 0
     },
-    "People/_README.md": {
-      "size": 280,
-      "tags": 0,
-      "links": 0
-    },
-    "Projects/_README.md": {
-      "size": 286,
-      "tags": 0,
-      "links": 0
-    },
     "Reference/Dictionary/Synapse.md": {
       "size": 623,
-      "tags": 0,
-      "links": 0
-    },
-    "Reference/Guidance/_README.md": {
-      "size": 530,
-      "tags": 0,
-      "links": 0
-    },
-    "Resources/_README.md": {
-      "size": 383,
       "tags": 0,
       "links": 0
     },
@@ -304,23 +254,8 @@
       "tags": 0,
       "links": 0
     },
-    "Resources/Clippings/_README.md": {
-      "size": 299,
-      "tags": 0,
-      "links": 0
-    },
     "Resources/Embeds/Todoist-Embed.md": {
       "size": 319,
-      "tags": 0,
-      "links": 0
-    },
-    "Resources/Embeds/_README.md": {
-      "size": 290,
-      "tags": 0,
-      "links": 0
-    },
-    "Resources/Highlights/_README.md": {
-      "size": 1061,
       "tags": 0,
       "links": 0
     },
@@ -329,28 +264,13 @@
       "tags": 0,
       "links": 0
     },
-    "Resources/Tools/_README.md": {
-      "size": 287,
-      "tags": 0,
-      "links": 0
-    },
     "Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md": {
       "size": 11518,
       "tags": 0,
       "links": 0
     },
-    "Resources/Highlights/Notes/_README.md": {
-      "size": 227,
-      "tags": 0,
-      "links": 0
-    },
     "Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 35670,
-      "tags": 0,
-      "links": 0
-    },
-    "Resources/Highlights/Readwise/_README.md": {
-      "size": 236,
       "tags": 0,
       "links": 0
     },
@@ -3158,16 +3078,11 @@
       "size": 550,
       "tags": 0,
       "links": 0
-    },
-    "Slipbox/_README.md": {
-      "size": 279,
-      "tags": 0,
-      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1944,
+      "Refactor": 1961,
       "Create": 1773,
       "Link": 2184,
       "Expand": 94
@@ -3176,7 +3091,7 @@
   "dailyCommits": {
     "/": {
       "0": 1,
-      "1": 3263,
+      "1": 3280,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -3204,7 +3119,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 188,
-      "Tue": 1537,
+      "Tue": 1554,
       "Wed": 1382,
       "Thu": 1965,
       "Fri": 319,
@@ -3432,6 +3347,23 @@
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"Templates/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Tools/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Embeds/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Clippings/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Reference/Guidance/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Reference/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Projects/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"People/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"MOCs/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Meta/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Daily-Notes/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Agendas/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"4-Archives/Guidance/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PostgreSQL.md\"> PostgreSQL </a>",
@@ -3465,24 +3397,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Work-Templates/Colleage-Template.md\"> Colleage-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-Template.md\"> Slipbox-Dev-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-R-Template.md\"> Slipbox-Dev-R-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Personal-Templates/Person-Template.md\"> Person-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Weekly-Review-Template.md\"> Weekly-Review-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Tool-Template.md\"> Tool-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Readme-Template.md\"> Readme-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/MOC-Template.md\"> MOC-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Mindsweep-Template.md\"> Mindsweep-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Meta-Template.md\"> Meta-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Project-Template.md\"> Project-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/List-Template.md\"> List-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Kanban-Template.md\"> Kanban-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Daily-Note-Template.md\"> Daily-Note-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Agenda-Template.md\"> Agenda-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md\"> How to Design a Clean Database </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-R-Template.md\"> Slipbox-Dev-R-Template </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
