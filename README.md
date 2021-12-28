@@ -2,7 +2,7 @@
 
 Welcome to my personal knowledge base - **KaaS** or Knowledge as a Service.
 
-Inside is my personal, customized, digital knowledge note-base structured loosely as a *[Zettelkasten](Slipbox/Zettelkasten.md)*, a collection of interlinked *[Atomic Notes](Slipbox/Atomic%20Notes.md)* about anything that interests me.
+Inside is my personal, customized, digital knowledge note-base structured loosely as a *[[Zettelkasten]]*, a collection of interlinked *[[Atomic Notes]]* about anything that interests me.
 
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
 
@@ -14,28 +14,30 @@ Currently I am persistently perusing and curating my 10,000+ various notes house
 
 Check out the `Meta/` Folder for details about this Vault and its setup:
 
-* [About](Meta/About.md)
-* [Publish Workflow](Meta/Publish%20Workflow.md) *(MkDocs version only, not Obsidian Publish)*
-* [Structure](Meta/Structure.md)
+-   [[About]]
+-   [[Publish Workflow]] _(MkDocs version only, not Obsidian Publish)_
+-   [[Structure]]
 
-The [Changelog](Changelog.md) is also a good *Meta* resource.
+The [[Changelog]] is also a good _Meta_ resource.
 
 ### Maps of Content
 
-If this vault serves as my version of [a second brain](Slipbox/Building%20a%20Second%20Brain.md), then *Maps of Content* or *MOC's* are the underlying [synapse](Reference/Dictionary/Synapse.md)'s connecting the neurotransmitters of the brain together to form a complex, structured system.
+If this vault serves as my version of [[Building a Second Brain|a second brain]], then [[2-Areas/MOCs/_README|Maps of Content]] or _MOC's_ are the underlying [[Synapse|synapse]]'s connecting the neurotransmitters of the brain together to form a complex, structured system.
 
-In other words MOC's serve as structural, index notes that list related [Atomic Notes](Slipbox/Atomic%20Notes.md) in a single location.
+In other words MOC's serve as structural, index notes that list related [[Atomic Notes]] in a single location.
 
 Some Maps of Content to consider are:
 
-* [Development](MOCs/Development.md)
-* [Actuarial Science](MOCs/Actuarial%20Science.md)
-* [Productivity](MOCs/Productivity.md)
+-   [[Development]]
+-   [[Actuarial Science]]
+-   [[Productivity]]
 
 The others are still works in progress as I collect and curate more notes into the vault.
 
 ## Notes
 
-- Note: Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.
-- Note: This repository has two main branches: [main]() and [develop](). The [main]() branch is a representation of the [develop]() branch, but with all obsidian wikilinks converted to GitHub markdown links for display on GitHub. The [develop]() branch mirrors what you work with while inside the Obsidian application.
-- Note: Links are converted using the rust library [Obsidian-Export](). 
+- Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.
+- This repository has two main branches: [main](https://github.com/jimbrig/KaaS-New/tree/main) and [develop](https://github.com/jimbrig/KaaS-New/tree/develop). 
+	- The [main](https://github.com/jimbrig/KaaS-New/tree/main) branch is a representation of the [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch, but with all obsidian wiki-links converted to GitHub markdown links for display on GitHub. 
+	- The [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch mirrors what you work with while inside the Obsidian application.
+	- Links are converted using the rust library [Obsidian-Export](https://github.com/zoni/obsidian-export).

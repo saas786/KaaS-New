@@ -1,12 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "2021-12-28",
+      "path": "2-Areas/Daily-Notes/2021-12-28.md"
+    },
+    {
+      "basename": "Data Warehousing Concepts and Definitions",
+      "path": "0-Slipbox/Data Warehousing Concepts and Definitions.md"
+    },
+    {
+      "basename": "Disparate",
+      "path": "3-Resources/Dictionary/Disparate.md"
+    },
+    {
+      "basename": "Generalized Additive Models",
+      "path": "0-Slipbox/Generalized Additive Models.md"
+    },
+    {
+      "basename": "Development",
+      "path": "2-Areas/MOCs/Development.md"
+    },
+    {
+      "basename": "R Package Development Resources",
+      "path": "0-Slipbox/R Package Development Resources.md"
+    },
+    {
+      "basename": "Assign Global Hotkeys to Launch Any App in Windows 10",
+      "path": "3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md"
+    },
+    {
+      "basename": "SQLite",
+      "path": "0-Slipbox/SQLite.md"
+    },
+    {
+      "basename": "2021-12-26",
+      "path": "2-Areas/Daily-Notes/2021-12-26.md"
+    },
+    {
+      "basename": "2021-12-18",
+      "path": "2-Areas/Daily-Notes/2021-12-18.md"
+    },
+    {
+      "basename": "Unix Philosophy",
+      "path": "0-Slipbox/Unix Philosophy.md"
+    },
+    {
+      "basename": "_README",
+      "path": "0-Slipbox/_README.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
       "basename": "Changelog",
       "path": "Changelog.md"
+    },
+    {
+      "basename": "_README",
+      "path": "3-Resources/_README.md"
+    },
+    {
+      "basename": "Individual-Claim-Development-Models-and-Detailed-Actuarial-Reserves-in-Property-Casualty-Insurance-2021-04-06-1",
+      "path": "3-Resources/PDFs/Individual-Claim-Development-Models-and-Detailed-Actuarial-Reserves-in-Property-Casualty-Insurance-2021-04-06-1.pdf"
+    },
+    {
+      "basename": "Application and API",
+      "path": "1-Projects/reserver/Application and API.md"
+    },
+    {
+      "basename": "Workflows",
+      "path": "1-Projects/reserver/Workflows.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "1-Projects/reserver/Functions.md"
+    },
+    {
+      "basename": "Data",
+      "path": "1-Projects/reserver/Data.md"
+    },
+    {
+      "basename": "_README",
+      "path": "1-Projects/reserver/_README.md"
+    },
+    {
+      "basename": "2021-12-07",
+      "path": "2-Areas/Mindsweeps/2021-12-07.md"
+    },
+    {
+      "basename": "Free Actuarial System for Loss Reserving",
+      "path": "0-Slipbox/Free Actuarial System for Loss Reserving.md"
+    },
+    {
+      "basename": "PowerShell Module - Pester",
+      "path": "0-Slipbox/PowerShell Module - Pester.md"
+    },
+    {
+      "basename": "Flask and Docker",
+      "path": "0-Slipbox/Flask and Docker.md"
+    },
+    {
+      "basename": "PowerShell Module - ModuleBuilder",
+      "path": "0-Slipbox/PowerShell Module - ModuleBuilder.md"
+    },
+    {
+      "basename": "PowerShell Module - devblackops",
+      "path": "0-Slipbox/PowerShell Module - devblackops.md"
+    },
+    {
+      "basename": "Documenting PowerShell Modules",
+      "path": "0-Slipbox/Documenting PowerShell Modules.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "2-Areas/MOCs/PowerShell.md"
+    },
+    {
+      "basename": "PowerShell Module - Plaster",
+      "path": "0-Slipbox/PowerShell Module - Plaster.md"
+    },
+    {
+      "basename": "PowerShell Module - PoshCode",
+      "path": "0-Slipbox/PowerShell Module - PoshCode.md"
+    },
+    {
+      "basename": "PowerShell Module - psake",
+      "path": "0-Slipbox/PowerShell Module - psake.md"
+    },
+    {
+      "basename": "PowerShell Module - PSScaffold",
+      "path": "0-Slipbox/PowerShell Module - PSScaffold.md"
+    },
+    {
+      "basename": "Slipbox-Dev-PowerShell-Template",
+      "path": "3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md"
+    },
+    {
+      "basename": "Slipbox-Default-Template",
+      "path": "3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md"
+    },
+    {
+      "basename": "PowerShell Module - Stucco",
+      "path": "0-Slipbox/PowerShell Module - Stucco.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "3-Resources/Tools/PowerShell.md"
+    },
+    {
+      "basename": "Best Practices With Packer and Windows",
+      "path": "3-Resources/Highlights/Readwise/Articles/Best Practices With Packer and Windows.md"
+    },
+    {
+      "basename": "Azure Data Studio",
+      "path": "3-Resources/Tools/Azure Data Studio.md"
+    },
+    {
+      "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
+      "path": "0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
+    },
+    {
+      "basename": "A Preview of WSL in the Microsoft Store Is Now Available!",
+      "path": "3-Resources/Highlights/Readwise/Articles/A Preview of WSL in the Microsoft Store Is Now Available!.md"
+    },
+    {
+      "basename": "Backup Edge User Preferences PowerShell Script",
+      "path": "0-Slipbox/Backup Edge User Preferences PowerShell Script.md"
+    },
+    {
+      "basename": "Software Development",
+      "path": "2-Areas/MOCs/Software Development.md"
+    },
+    {
+      "basename": "Mindsweep-Template",
+      "path": "3-Resources/Templates/Mindsweep-Template.md"
+    },
+    {
+      "basename": "_README",
+      "path": "2-Areas/Mindsweeps/_README.md"
+    },
+    {
+      "basename": "GTD Mindsweep",
+      "path": "0-Slipbox/GTD Mindsweep.md"
+    },
+    {
+      "basename": "About",
+      "path": "2-Areas/Meta/About.md"
+    },
+    {
+      "basename": "2021-12-07",
+      "path": "2-Areas/Daily-Notes/2021-12-07.md"
+    },
+    {
+      "basename": "List of Python Flask Resources",
+      "path": "0-Slipbox/List of Python Flask Resources.md"
     }
   ],
   "omittedPaths": [],

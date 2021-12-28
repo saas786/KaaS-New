@@ -1,0 +1,49 @@
+on: 
+  push:
+    branches: [ develop ]
+
+name: Convert Links
+
+jobs:
+  export:
+    name: Export Vault
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Export
+        uses: ./.github/actions/export-action
+        id: export
+        with:
+          vault-location: ./Vault
+          vault-subdirectory: "/Export"
+        
+  #       actions-rs/toolchain@v1
+  #       with:
+  #         profile: minimal
+  #         toolchain: stable
+  #         override: true
+  #     - uses: actions-rs/cargo@v1
+  #     - run: cargo install obsidian-export
+
+  #     - name: Convert Wikilinks
+  #       run: |
+  #         mkdir .export
+  #         mkdir .copy
+  #         cp -r * .copy
+  #         obsidian-export 
+          
+  #         git config --global user.name 'Jimmy Briggs'
+  #         git config --global user.email 'jimbrig@users.noreply.github.com'
+  #         git checkout -b main
+  #         git pull
+
+  #         git commit -am "Automated report"
+  #         git push
+
+  # convert:
+  #   name: Convert Wikilinks
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: 
