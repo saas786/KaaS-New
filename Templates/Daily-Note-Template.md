@@ -1,12 +1,12 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Daily"]
 ---
 
-<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] >>
+<< [[2021-12-27]] | [[2021-12-29]] >>
 
-# <% tp.date.now("dddd MMMM DD, YYYY") %>
+# Tuesday December 28, 2021
 
 ## Day Planner
 
@@ -31,5 +31,5 @@ Tags: ["#Type/Daily"]
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Initiative-Template]] AND -"Changelog"
 ```

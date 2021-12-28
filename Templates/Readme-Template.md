@@ -1,16 +1,16 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Readme"]
-Alias: <% tp.file.folder() %>
+Alias: Work-Templates
 ---
 
-# <% tp.file.folder() %>
+# Work-Templates
 
 *Contents*
 
 ```dataview
-list from "<% tp.file.folder(true) %>" AND !#Type/Readme
+list from "Templates/Work-Templates" AND !#Type/Readme
 ```
 
 ***
@@ -18,5 +18,5 @@ list from "<% tp.file.folder(true) %>" AND !#Type/Readme
 *Backlinks*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Initiative-Template]] AND -"Changelog"
 ```

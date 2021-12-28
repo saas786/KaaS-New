@@ -1,15 +1,15 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
 Tags: ["#Type/Person"]
 Aliases: ["<% tp.file.cursor(8) %>"]
 ---
 
-# <% tp.file.title %>
+# Initiative-Template
 
 ## Work
 
-- I work with <% tp.file.title %> on:
+- I work with Initiative-Template on:
 
 ## Details
 - Job Title: <% tp.file.cursor(1) %>
@@ -42,6 +42,6 @@ FILL IN HREF BELOW
 *Backlinks*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Meta/Changelog"
+list from [[Initiative-Template]] AND -"Meta/Changelog"
 ```
 

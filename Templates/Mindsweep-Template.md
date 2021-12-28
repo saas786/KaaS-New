@@ -1,11 +1,11 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Mindsweep"]
-Aliases: ["<% tp.file.title %>"]
+Aliases: ["Initiative-Template"]
 ---
 
-# <% tp.date.now() %> - Mindsweep
+# 2021-12-28 - Mindsweep
 
 See Also: [[Mindsweep Trigger List]]
 
@@ -16,5 +16,5 @@ See Also: [[Mindsweep Trigger List]]
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Initiative-Template]] AND -"Changelog"
 ```

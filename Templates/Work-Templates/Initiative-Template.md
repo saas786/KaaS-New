@@ -1,16 +1,16 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
 Tags: ["#Type/Initiative"]
 Alias:
 ---
 
-# <% tp.file.title %>
+# Initiative-Template
 
 *List out initiative information, purpose and goals, team members, and projects here*
 
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Initiative-Template]] AND -"Changelog"
 ```

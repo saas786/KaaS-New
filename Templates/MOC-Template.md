@@ -1,13 +1,13 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/MOC"]
-Alias: "<% tp.file.title %>"
+Alias: "Initiative-Template"
 ---
 
-# <% tp.file.title %>
+# Initiative-Template
 
-*<% tp.file.title %>* Map of Content houses all notes related to <% tp.file.title %> in general.
+*Initiative-Template* Map of Content houses all notes related to Initiative-Template in general.
 
 ## Notes
 
@@ -15,14 +15,14 @@ Alias: "<% tp.file.title %>"
 
 ## Dataviews
 
-### Tagged as *Category/<% tp.file.title %>*
+### Tagged as *Category/Initiative-Template*
 
 ```dataview
-list from #Category/<% tp.file.title %> AND -"Templates" AND -"MOCs" AND -"Changelog"
+list from #Category/Initiative-Template AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```
 
 ### Links to this File
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Initiative-Template]] AND -"Changelog"
 ```

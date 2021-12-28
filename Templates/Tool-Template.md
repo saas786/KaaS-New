@@ -1,11 +1,11 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool"]
 Alias: []
 ---
 
-# <% tp.file.title %>
+# Initiative-Template
 
 ***
 

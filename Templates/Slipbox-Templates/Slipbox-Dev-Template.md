@@ -1,14 +1,14 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "<% tp.file.title %>"
+Alias: "Initiative-Template"
 ---
 
-# <% tp.file.title %>
+# Initiative-Template
 
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Initiative-Template]] AND -"Changelog"
 ```

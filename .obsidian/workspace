@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "d98244d24f0942ff",
+    "id": "25e0cd439112c864",
     "type": "split",
     "children": [
       {
-        "id": "d82b366bc7d5d2df",
+        "id": "168717d445fad7de",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily-Notes/2021-11-23.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0ec79e0937ef51d4",
+    "id": "449811ec1735c8e1",
     "type": "split",
     "children": [
       {
-        "id": "18660007bf8dc1bd",
+        "id": "fc28475b25ca6550",
         "type": "tabs",
         "children": [
           {
-            "id": "c0c414a742f2df21",
+            "id": "dbe5d7c0addde3d4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +31,12 @@
             }
           },
           {
-            "id": "f0bf88acbc792237",
+            "id": "2a6b7a1ce68c08e5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Topic/Dev",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +46,7 @@
             }
           },
           {
-            "id": "11213e26ba402af9",
+            "id": "fcf16643e6f39518",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -57,7 +54,7 @@
             }
           },
           {
-            "id": "e48dbd86b8041049",
+            "id": "5adeace78bd39d4a",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -71,41 +68,27 @@
     "width": 300
   },
   "right": {
-    "id": "6c32bb46b6a621c3",
+    "id": "7ac2ce154b51f2ad",
     "type": "split",
     "children": [
       {
-        "id": "cc49c60a28d7389b",
+        "id": "7bc750b72cf60c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "2142b0eb44a38c1c",
+            "id": "eb7a292b856dadea",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
-            "id": "0ef081585c37b46b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Daily-Notes/2021-11-23.md"
-              }
-            }
-          },
-          {
-            "id": "ef5a6eb0b2c56bd6",
+            "id": "efa12d085dc16996",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Notes/2021-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,55 +100,72 @@
             }
           },
           {
-            "id": "f8b3e9e67d047d10",
+            "id": "272e44707b9297db",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Notes/2021-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bb25f0ab319898a6",
+            "id": "11c3d2a4eec96f43",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9632afec8d4c510d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           },
           {
-            "id": "8fb02e84aaad68ba",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "7b37d2b704c9b6da",
+            "id": "92f37575c3d352be",
             "type": "leaf",
             "state": {
               "type": "toggl-report",
               "state": {}
             }
+          },
+          {
+            "id": "edac2fa3dc6e2b3b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfeb84184eed60eb",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
-        "id": "52ba14792bc13335",
+        "id": "4c1e29ea5ee968f6",
         "type": "tabs",
         "children": [
           {
-            "id": "8222353ba07bec2b",
+            "id": "f9e551586bc58871",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily-Notes/2021-11-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +188,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3033878700221113,
+                  "scale": 0.2588386562181627,
                   "close": true
                 }
               }
@@ -198,19 +198,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359
+    "width": 470
   },
-  "active": "d82b366bc7d5d2df",
+  "active": "168717d445fad7de",
   "lastOpenFiles": [
-    "Daily-Notes/2021-11-23.md",
-    "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
-    "MOCs/Development.md",
-    "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
-    "Slipbox/Cloud Computing.md",
-    "Slipbox/Database Connection Pooling.md",
-    "Meta/About.md",
-    "Slipbox/Weekly Review Musings.md",
-    "Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md",
-    "Resources/_README.md"
+    "0-Slipbox/Data Warehousing Concepts and Definitions.md",
+    "3-Resources/Dictionary/Disparate.md",
+    "0-Slipbox/Generalized Additive Models.md",
+    "2-Areas/MOCs/Development.md",
+    "0-Slipbox/R Package Development Resources.md",
+    "2-Areas/Daily-Notes/2021-12-28.md",
+    "3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md",
+    "0-Slipbox/SQLite.md",
+    "2-Areas/Daily-Notes/2021-12-26.md",
+    "2-Areas/Daily-Notes/2021-12-18.md"
   ]
 }

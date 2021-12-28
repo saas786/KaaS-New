@@ -1,11 +1,11 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Project", "#Topic/PwC" ]
 Alias: <% tp.file.cursor() %>
 ---
 
-# <% tp.file.title %>
+# Initiative-Template
 
 - 🔗 - < add link to Todoist project here >
 - 📁 - < add URI/path to project directory here >
@@ -14,7 +14,7 @@ Alias: <% tp.file.cursor() %>
 ## Contents
 
 ```dataview
-list from "<% tp.file.folder(true) %>" AND !#Type/Readme AND -"Changelog"
+list from "Templates/Work-Templates" AND !#Type/Readme AND -"Changelog"
 ```
 
 ***
@@ -22,6 +22,6 @@ list from "<% tp.file.folder(true) %>" AND !#Type/Readme AND -"Changelog"
 *Backlinks*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Initiative-Template]] AND -"Changelog"
 ```
 
